@@ -1,5 +1,5 @@
 ### websites go brrrrrr
-![STAY STRONG](https://github.com/sinfully/sinfully/assets/11829083/276af2fb-a4d0-40e1-822f-c106b2b28235)
+
 <!--
 **sinfully/sinfully** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
