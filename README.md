@@ -1,9 +1,10 @@
 ### websites go brrrrrr
-
+![STAY STRONG](https://github.com/sinfully/sinfully/assets/11829083/276af2fb-a4d0-40e1-822f-c106b2b28235)
 <!--
 **sinfully/sinfully** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![American-Bodybuilder-Rich-Piana-013](https://github.com/sinfully/sinfully/assets/11829083/276af2fb-a4d0-40e1-822f-c106b2b28235)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
