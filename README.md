@@ -1,4 +1,4 @@
-- ⚡ Fun fact **I love coffee and I love learning code**
+- ☕ Fun fact **I love coffee and I love learning code**
 
 - 📫 How to reach me **githubsin@protonmail.com**
 
